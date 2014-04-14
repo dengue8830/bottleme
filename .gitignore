@@ -36,4 +36,4 @@ platforms/android/ant-build/*
 platforms/android/ant-gen/*
 
 platforms/android/assets/www/*
-!platforms/android/assets/www/.totem_dengue
+!platforms/android/assets/.totem_dengue
